@@ -1,0 +1,74 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    background-image: url(/img/wallhaven-neoxo8.png);  
+ }
+
+.conteiner{
+    margin-top: 30px;
+    margin-left: 35%;
+}
+#poqueball {
+    margin-top: -6px;
+    height: 54px;
+    width: 54px;
+}
+
+.pesquisa{
+    display: flex;
+}
+#button{
+    border: none;
+    background-color: rgba(255, 255, 255, 0);
+}
+
+#inputtext{
+    border-radius: 10px;
+    height: 41px;
+    width: 325px;
+}
+.dados{
+    height: 494px;
+    width: 391px;
+    border-radius: 20px;
+    background-color: #3A0055;
+}
+#name{
+    display: inline-block;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 8%;
+    background-color: rgb(255, 255, 255);
+    height: 43px ;
+    width: 333px;
+    border-radius: 10px;
+}
+.fundoimg{
+    height: 331px;
+    width: 340px;
+    margin-left: 6.5%;
+    border-radius: 20px;
+    background-color: rgb(255, 255, 255);
+}
+.tipos{
+    display: flex;
+    justify-content:space-evenly;
+    text-align: center;
+}
+#tipo1{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    height: 25px;
+    width: 136px;
+}
+#tipo2{
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    height: 25px;
+    width: 136px;
+}
+#pokemon{
+    border-radius: 20px;
+    height: 331px;
+    width: 340px;
+}
